@@ -5,6 +5,7 @@ import Header from './components/Header';
 import Profile from './pages/Profile';
 import Repo from './pages/Repo';
 
+
 function App() {
   return (
     <BrowserRouter>
@@ -20,7 +21,6 @@ function App() {
       <GlobalStyles/>
     </BrowserRouter>
 
-    
   );
 }
 
